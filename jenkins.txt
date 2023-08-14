@@ -1,0 +1,6 @@
+jenkins :
+	use two concepts for building job ::
+	
+	pollscm : we can specify the time interval to 	build job automatically.what ever the code 	present in github will be sent to testing
+	
+	webhooks:jenkins build job continuosly without 		any time interval and  continously send code to 	the testing
